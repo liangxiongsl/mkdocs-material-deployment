@@ -1,0 +1,95 @@
+linux&unix
+	linux±à³Ì
+		makeÃüÁî
+		GCC linux
+	IO Redirection
+		lnput Redirection
+		Output Redirection
+		Error Redirection
+	unix Tools
+		Find
+		Locate
+		Date
+		Cal
+		Sleep
+		Time
+		zcat&zmore
+		bzip2&bunzip2
+		bzcat&bzmore
+		df
+	regexÕıÔò±í´ïÊ½
+		exprÃüÁî
+		RegEx
+		Grep RegEx
+		rename RegEx
+		Sed RegEx
+	Security
+		File OwnerShip
+		chgrp
+		Permission
+		chmod
+		chown
+		Advance Permission
+		File Links
+		1) lnodes
+		2) Link Directories
+		3) Hard links
+		4) Soft links
+		5) Remove link
+	Networking
+		1£©ifconfig
+		2£©ip
+		telnet
+		SSH
+		mail
+		3) traceroute
+		4) tracepath
+		5) ping
+		6) netstat
+		7) ss
+		8) dig
+		9) nslookup
+		10) route
+		11) host
+		12) arp
+		13) iwconfig
+		14) hostname
+		15) curl&wget
+		Curl Command
+		16) mtr
+		17) whois
+		18) ifplugstatus
+	editor
+		vi
+	System Admin
+		Admin Commands
+		uptime
+		service
+		pmap
+		wget command
+		ftp&sftp
+		free
+		top
+		last
+		ps
+		shutdown
+		info
+		env
+		du
+		init
+		Nano±à¼­Æ÷
+		shred
+		mount
+		route
+	man
+		man -a
+		man -aw
+		man -f
+		man -k(apropos)
+		man whereis
+		Whatis
+	´íÎóÂë
+		´íÎóÂë
+	misc
+		ÔÓÏî
+		
