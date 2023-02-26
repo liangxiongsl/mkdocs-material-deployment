@@ -1,24 +1,110 @@
-site_name: 苏格兰的梁稳
+site_name: ji
 nav: 
-    - Hibernate Tutorial:
-        - Hibernate Tutorial/index.md
-        - Hibernate Tutorial/HB Introduction.md
-        - Hibernate Tutorial/HB Architecture.md
-        - Hibernate Tutorial/First Hibernate Example.md
-    - Hibernate with Eclipse:
-        - Hibernate with Eclipse/index.md
-        - Hibernate with Eclipse/HB using XML.md
-        - Hibernate with Eclipse/HB using Annotation.md
-    - Hibernate Example:
-        - Hibernate Example/index.md
-        - Hibernate Example/HB Web application.md
-        - Hibernate Example/HB Generator classes.md
-        - Hibernate Example/HB Dialects.md
-    - Hibernate Log4j:
-        - Hibernate Log4j/index.md
-        - Hibernate Log4j/HB with Log4j 1.md
-        - Hibernate Log4j/HB with Log4j 2.md
-
+    - linux编程:
+        - linux编程/index.md
+        - linux编程/make命令.md
+        - linux编程/GCC linux.md
+    - IO Redirection:
+        - IO Redirection/index.md
+        - IO Redirection/lnput Redirection.md
+        - IO Redirection/Output Redirection.md
+        - IO Redirection/Error Redirection.md
+    - unix Tools:
+        - unix Tools/index.md
+        - unix Tools/Find.md
+        - unix Tools/Locate.md
+        - unix Tools/Date.md
+        - unix Tools/Cal.md
+        - unix Tools/Sleep.md
+        - unix Tools/Time.md
+        - unix Tools/zcat&zmore.md
+        - unix Tools/bzip2&bunzip2.md
+        - unix Tools/bzcat&bzmore.md
+        - unix Tools/df.md
+    - regex正则表达式:
+        - regex正则表达式/index.md
+        - regex正则表达式/expr命令.md
+        - regex正则表达式/RegEx.md
+        - regex正则表达式/Grep RegEx.md
+        - regex正则表达式/rename RegEx.md
+        - regex正则表达式/Sed RegEx.md
+    - Security:
+        - Security/index.md
+        - Security/File OwnerShip.md
+        - Security/chgrp.md
+        - Security/Permission.md
+        - Security/chmod.md
+        - Security/chown.md
+        - Security/Advance Permission.md
+        - Security/File Links.md
+        - Security/1) lnodes.md
+        - Security/2) Link Directories.md
+        - Security/3) Hard links.md
+        - Security/4) Soft links.md
+        - Security/5) Remove link.md
+    - Networking:
+        - Networking/index.md
+        - Networking/1）ifconfig.md
+        - Networking/2）ip.md
+        - Networking/telnet.md
+        - Networking/SSH.md
+        - Networking/mail.md
+        - Networking/3) traceroute.md
+        - Networking/4) tracepath.md
+        - Networking/5) ping.md
+        - Networking/6) netstat.md
+        - Networking/7) ss.md
+        - Networking/8) dig.md
+        - Networking/9) nslookup.md
+        - Networking/10) route.md
+        - Networking/11) host.md
+        - Networking/12) arp.md
+        - Networking/13) iwconfig.md
+        - Networking/14) hostname.md
+        - Networking/15) curl&wget.md
+        - Networking/Curl Command.md
+        - Networking/16) mtr.md
+        - Networking/17) whois.md
+        - Networking/18) ifplugstatus.md
+    - editor:
+        - editor/index.md
+        - editor/vi.md
+    - System Admin:
+        - System Admin/index.md
+        - System Admin/Admin Commands.md
+        - System Admin/uptime.md
+        - System Admin/service.md
+        - System Admin/pmap.md
+        - System Admin/wget command.md
+        - System Admin/ftp&sftp.md
+        - System Admin/free.md
+        - System Admin/top.md
+        - System Admin/last.md
+        - System Admin/ps.md
+        - System Admin/shutdown.md
+        - System Admin/info.md
+        - System Admin/env.md
+        - System Admin/du.md
+        - System Admin/init.md
+        - System Admin/Nano编辑器.md
+        - System Admin/shred.md
+        - System Admin/mount.md
+        - System Admin/route.md
+    - man:
+        - man/index.md
+        - man/man -a.md
+        - man/man -aw.md
+        - man/man -f.md
+        - man/man -k(apropos).md
+        - man/man whereis.md
+        - man/Whatis.md
+    - 错误码:
+        - 错误码/index.md
+        - 错误码/错误码.md
+    - misc:
+        - misc/index.md
+        - misc/杂项.md
+        
 extra_css:
     - res/extra.css
 extra_javascript:

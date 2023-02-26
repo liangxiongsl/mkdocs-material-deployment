@@ -203,8 +203,10 @@ signed Main(){
 	fclose(fp); 
 	
 	// 
-	f("echo start http://localhost:8000 > \"" + name + "\\run.bat" + "\"");
-	f("echo mkdocs serve -a localhost:8000>> \"" + name + "\\run.bat" + "\"");
+	f("echo set port=8000>> \"" + name + "\\run.bat" + "\"");
+	f("echo start http://localhost:%port% >> \"" + name + "\\run.bat" + "\"");
+	f("echo title " + name + " - %port%>> \"" + name + "\\run.bat" + "\"");
+	f("echo mkdocs serve -a localhost:%port%>> \"" + name + "\\run.bat" + "\"");
 	
 	// 将项目移动到指定的目录 
 	cout.open(s);

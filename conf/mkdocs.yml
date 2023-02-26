@@ -84,7 +84,7 @@ theme:
         - navigation.prune
         - navigation.indexes
         - toc.follow
-        - toc.integrate
+        # - toc.integrate
         - navigation.top
 
         - search.suggest
