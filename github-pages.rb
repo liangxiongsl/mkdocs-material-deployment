@@ -16,3 +16,4 @@ system('git branch -M main')
 system('git push -u origin main')
 
 system('mkdocs gh-deploy')
+system('pause')
